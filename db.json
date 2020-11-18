@@ -1,0 +1,35 @@
+{
+    "users":
+    [
+        {
+            "id": 1,
+            "nome": "Bianca",
+            "email":"bianca.nunes.bacharel@gmail.com",
+            "xp": 0,
+            "highscore":0
+          }
+
+    ],
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Famílias",
+      "image": "https://dfilitto.com.br/wp-content/uploads/2020/03/logo-menor.png"
+    },
+    {
+      "id": 2,
+      "nome": "Números",
+      "image": "https://dfilitto.com.br/wp-content/uploads/2020/03/logo-menor.png"
+    },
+    {
+      "nome": "teste3",
+      "image": "https://dfilitto.com.br/wp-content/uploads/2020/03/logo-menor.png",
+      "id": 4
+    },
+    {
+      "nome": "colores",
+      "image": "https://dfilitto.com.br/wp-content/uploads/2020/03/logo-menor.png",
+      "id": 5
+    }
+  ]
+}
