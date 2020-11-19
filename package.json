@@ -1,5 +1,5 @@
 {
-  "name": "restapienglishforkids",
+  "name": "restapienglishforkids2",
   "version": "1.0.0",
   "description": "Teste rest api english for kids",
   "main": "server.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BibiStar/restapienglishforkids.git"
+    "url": "git+https://github.com/BibiStar/restapienglishforkids2.git"
   },
   "keywords": [],
   "author": "Bianca Nunes",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BibiStar/restapienglishforkids/issues"
+    "url": "https://github.com/BibiStar/restapienglishforkids2/issues"
   },
-  "homepage": "https://github.com/BibiStar/restapienglishforkids#readme",
+  "homepage": "https://github.com/BibiStar/restapienglishforkids2#readme",
   "dependencies": {
     "json-server": "^0.16.3"
   }
